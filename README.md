@@ -1,5 +1,38 @@
-//Temperature converter
-
+Temperature converter
+🌡️ Temperature Converter (C++)
+📌 Description
+This is a simple Temperature Converter project written in C++.
+It converts temperature values between Celsius and Fahrenheit using standard formulas.
+This project is suitable for beginners who are learning C++ and basic programming logic.
+⚙️ Features
+Convert Celsius to Fahrenheit
+Convert Fahrenheit to Celsius
+Simple and easy-to-understand logic
+Beginner-friendly C++ project
+▶️ How to Run the Program
+Copy the source code
+Open any C++ compiler (Dev-C++, Code::Blocks, or online compiler)
+Compile the program
+Run the executable
+Enter temperature value and select conversion option
+🧮 Formula Used
+Celsius to Fahrenheit
+F = (C × 9/5) + 32
+Fahrenheit to Celsius
+C = (F − 32) × 5/9
+📊 Example
+Input:
+Celsius = 25
+Output:
+Fahrenheit = 77
+🛠️ Technologies Used
+Language: C++
+Concepts: Variables, Input/Output, Conditional Statements
+👩‍💻 Author
+Manahil Bibi
+GitHub: https://github.com/afibhai156-lgtm
+⭐ Notes
+This project is created for learning purposes and to build a strong foundation in C++ programming.
 #include<iostream>
 using namespace std;
 int main()
