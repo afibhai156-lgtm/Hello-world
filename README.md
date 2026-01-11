@@ -33,10 +33,10 @@ Manahil Bibi
 GitHub: https://github.com/afibhai156-lgtm
 ⭐ Notes
 This project is created for learning purposes and to build a strong foundation in C++ programming.
+
 #include<iostream>
 using namespace std;
-int main()
-{
+int main() {
     double c,f,k;
     int choice;
     do {
@@ -94,7 +94,10 @@ int main()
         default :
             cout << "invalid choice !please enter (1_7)" << endl;
         }
-    } while( choice!=7);
+    }
+    while( choice!=7);
     return 0;
 }
+
+
 
